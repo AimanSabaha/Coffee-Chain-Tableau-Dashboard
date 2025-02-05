@@ -21,6 +21,16 @@ Budget vs. Actual (Sales & Profit): A line graph comparing budgeted sales/profit
 Product-Wise Inventory and Marketing: Dual-area charts showing inventory levels and marketing expenses for each product.
 Budget COGS vs. COGS: Bar chart comparing the budgeted cost of goods sold (COGS) against actual COGS.
 Budget Margin vs. Margin: Line graph comparing budgeted profit margins with actual margins.
+### Interactive Filters
+The dashboards include interactive filters to enhance user exploration:
+Product Type: Filter data by different product categories like Coffee, Tea, Espresso, etc.
+Territory: Focus on data from specific territories such as Central, East, South, or West.
+Year of Date: Analyze data for a specific year.
+### Filter Interactivity
+The funnel icon on the dashboard allows users to toggle the filters.
+Clicking the funnel icon reveals the filters, enabling users to refine the data view.
+A cross "X" button next to the filters hides them again, ensuring a clutter-free dashboard when filters are not needed.
+This functionality provides a seamless and user-friendly way to interact with the data, focusing on areas of interest without overwhelming the visual layout.
 ## Tools Used
 Tableau: For creating interactive and visually appealing dashboards.
 ## Features
